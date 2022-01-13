@@ -1,0 +1,5 @@
+tensorflow==2.1.0
+tensorflow-data-validation==0.21.2
+zipp==0.6.0
+protobuf==3.11.4
+pandas==0.25.1
